@@ -27,7 +27,7 @@
 > *Faculty of Informatics and Design – Cape Peninsula University of Technology*  
 > *Subject Code:* **PRP370S** | *Lecturer:* **P. Inderlal** | *Period:* **October–November 2025**  
 
-This portfolio showcases my **Work Readiness Training** journey, featuring artefacts, evidence, and reflections (STAR Technique).  
+This portfolio showcases my **Work Readiness Training** journey, featuring artifacts, evidence, and reflections (STAR Technique).  
 Each section demonstrates my **personal, professional, and technical growth** throughout the academic year.
 
 ---
