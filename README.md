@@ -75,7 +75,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧑‍🏫 Mock Interview
 
 **📎 Evidence:**  
-[🎥 View Mock Interview Feedback](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%93%AC%20Mock%20Interview.png)
+[🎥 View Mock Interview Feedback](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)
 
 **⭐ Reflection (STAR):**  
 - **S:** Conducted a mock interview simulation.  
