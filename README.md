@@ -59,9 +59,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 ## 🎤 Interview Skills
 
-**📎 Evidence:**  
-[🗂️ View Interview Preparation Worksheet](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%97%A3%20Interview%20Skills.png)
- 
+**📎 Evidence:**   
 [📝 View Interview Preparation Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Interview%20Skills.png)
 
 **⭐ Reflection (STAR):**  
@@ -75,7 +73,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧑‍🏫 Mock Interview
 
 **📎 Evidence:**  
-[🎥 View Mock Interview Feedback](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)
+[🎥 View Mock Interview Vidoe Presentation](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)
 
 [📝 View Mock Interview Exercise]()
 
@@ -105,7 +103,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧭 Workplace Etiquette
 
 **📎 Evidence:**  
-[🧾 View Workplace Etiquette Notes](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview.mp4)
+[🧾 View Workplace Etiquette Exercise](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview.mp4)
 
 **⭐ Reflection (STAR):**  
 - **S:** Studied professionalism and workplace behavior principles.  
@@ -122,14 +120,14 @@ Each section demonstrates my **personal, professional, and technical growth** th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohnoloMotsoeneng&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
-| 🧩 Project | 📖 Description | ⚙️ Tech Stack | 🔗 Link |
-|------------|----------------|---------------|----------|
-| 🧑‍🎓 **Student Trade / Marketplace System** | Platform enabling students to trade and sell items | Java (DDD), Spring Boot, React, MySQL | [View Project](https://github.com/LehlohnoloMotsoeneng/student-trade-system) |
-| 👟 **Shiny Sneakers** | Full-stack e-commerce sneaker store | Spring Boot, MySQL, React | [View Project](https://github.com/lehlohnolo-m/shiny-sneakers) |
-| 🏢 **Smart Access, Smart Spaces** | IoT-based automated building access system | Arduino, Python, Raspberry Pi | [View Project](https://github.com/lehlohnolo-m/smart-access) |
-| 💸 **Bursary Management System (BMS)** | Manages bursary applications and allocation | Java, JSP, MySQL | [View Project](https://github.com/LehlohnoloMotsoeneng/bursary-management-system) |
-| 📚 **Library Management System** | Desktop app for managing books and users | Java, JDBC, Derby DB | [View Project](https://github.com/lehlohnolo-m/library-system) |
-| 🍽️ **Restaurant Management System** | Web app for order automation and staff roles | Java, MySQL, HTML/CSS | [View Project](https://github.com/lehlohnolo-m/restaurant-management) |
+| 🧩 Project | 📖 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| 🧑‍🎓 **Student Trade / Marketplace System** | Platform enabling students to trade and sell items | Java (DDD), Spring Boot, React, MySQL |
+| 👟 **Shiny Sneakers** | Full-stack e-commerce sneaker store | Spring Boot, MySQL, React |
+| 🏢 **Smart Access, Smart Spaces** | IoT-based automated building access system | Arduino, Python, Raspberry Pi |
+| 💸 **Bursary Management System (BMS)** | Manages bursary applications and allocation | Java, JSP, MySQL |
+| 📚 **Library Management System** | Desktop app for managing books and users | Java, JDBC, Derby DB |
+| 🍽️ **Restaurant Management System** | Web app for order automation and staff roles | Java, MySQL, HTML/CSS |
 
 ---
 
