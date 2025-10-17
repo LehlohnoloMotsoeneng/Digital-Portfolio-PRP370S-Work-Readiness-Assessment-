@@ -103,7 +103,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧭 Workplace Etiquette
 
 **📎 Evidence:**  
-[🧾 View Workplace Etiquette Exercise](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview.mp4)
+[🧾 View Workplace Etiquette Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Workplace%20Etiquette.png)
 
 **⭐ Reflection (STAR):**  
 - **S:** Studied professionalism and workplace behavior principles.  
