@@ -1,5 +1,3 @@
-# Digital-Portfolio-PRP370S-Work-Readiness-Assessment-
-
 # 👋 Hi, I'm Lehlohonolo Motsoeneng
 
 <p align="center">💻🚀 I’m an aspiring Software and IoT Developer currently 🎓 studying Information and Communication Technology at Cape Peninsula University of Technology (CPUT).  
