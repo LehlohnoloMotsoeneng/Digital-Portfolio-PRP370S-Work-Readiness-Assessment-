@@ -61,6 +61,8 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 **📎 Evidence:**  
 [🗂️ View Interview Preparation Worksheet](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%97%A3%20Interview%20Skills.png)
+ 
+[📝 View Interview Preparation Exercise]
 
 **⭐ Reflection (STAR):**  
 - **S:** Attended interview readiness workshops.  
