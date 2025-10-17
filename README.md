@@ -47,7 +47,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 💬 Business Communication
 
 **📎 Evidence:**  
-[📝 View Communication Exercise](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%93%A3%20Business%20Communication.png)
+[📝 View Communication Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Business%20Communication.png)
 
 **⭐ Reflection (STAR):**  
 - **S:** Participated in professional communication workshops during Work Readiness Week.  
