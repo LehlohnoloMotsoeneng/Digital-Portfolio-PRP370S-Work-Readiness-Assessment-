@@ -36,7 +36,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 🎯 [Business Communication](#-business-communication)  
 🎤 [Interview Skills](#-interview-skills)  
-🧑‍🏫 [Mock Interview](#-mock-interview)  
+🧑‍🏫 [Mock Interview][(#-mock-interview)](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng)  
 🌐 [Professional Networking](#-professional-networking)  
 🏢 [Workplace Etiquette](#-workplace-etiquette)  
 💼 [Technical Portfolio & Projects](#-technical-portfolio--projects)  
