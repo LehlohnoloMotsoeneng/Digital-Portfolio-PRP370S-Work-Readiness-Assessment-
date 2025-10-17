@@ -34,7 +34,6 @@
 🌐 [Professional Networking](#-professional-networking)  
 🏢 [Workplace Etiquette](#-workplace-etiquette)  
 💼 [Technical Portfolio & Projects](#-technical-portfolio--projects)  
-📂 [Supporting Documents](#-supporting-documents)  
 🪞 [Reflection](#-reflection)  
 🤝 [Let’s Collaborate](#-lets-collaborate)  
 🎯 [Conclusion](#-conclusion)
