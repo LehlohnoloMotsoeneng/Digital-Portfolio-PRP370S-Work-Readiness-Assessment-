@@ -160,5 +160,5 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 ---
 
-_This digital portfolio is proudly submitted for **PRP370S Work Readiness Assessment (November 2025)**._  
+_This digital portfolio is proudly submitted for **PRP370S Work Readiness Assessment (October 2025)**._  
 > 💬 *“The best way to predict the future is to create it.” – Peter Drucker*
