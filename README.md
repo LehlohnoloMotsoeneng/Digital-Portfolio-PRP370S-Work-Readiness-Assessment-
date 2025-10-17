@@ -157,10 +157,9 @@ I have hands-on experience with the following:
 
 ## 💼 Technical Portfolio & Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LehlohnoloMotsoeneng&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohnoloMotsoeneng&layout=compact&theme=tokyonight" height="160px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LehlohnoloMotsoeneng&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehlohnoloMotsoeneng&layout=compact&theme=tokyonight" />
+
 
 | 🧩 Project | 📖 Description | ⚙️ Tech Stack |
 |------------|----------------|---------------|
@@ -170,14 +169,6 @@ I have hands-on experience with the following:
 | 💸 **Bursary Management System (BMS)** | Manages bursary applications and allocation | Java, JSP, MySQL |
 | 📚 **Library Management System** | Desktop app for managing books and users | Java, JDBC, Derby DB |
 | 🍽️ **Restaurant Management System** | Web app for order automation and staff roles | Java, MySQL, HTML/CSS |
-
----
-
-## 📂 Supporting Documents
-
-- **Work Readiness Evidence:** [Link to Evidence Folder](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/tree/main)  
-- **Technical Project Reports:** Included in each project repository (links above).  
-- **Certificates & Workshops:** Screenshots and PDFs uploaded in the Evidence folder.  
 
 ---
 
