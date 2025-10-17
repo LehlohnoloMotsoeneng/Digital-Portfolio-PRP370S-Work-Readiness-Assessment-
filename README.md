@@ -36,7 +36,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 🎯 [Business Communication](#-business-communication)  
 🎤 [Interview Skills](#-interview-skills)  
-🧑‍🏫 [Mock Interview][(#-mock-interview)](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng)  
+🧑‍🏫 [Mock Interview](#-mock-interview)  
 🌐 [Professional Networking](#-professional-networking)  
 🏢 [Workplace Etiquette](#-workplace-etiquette)  
 💼 [Technical Portfolio & Projects](#-technical-portfolio--projects)  
@@ -100,7 +100,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧭 Workplace Etiquette
 
 **📎 Evidence:**  
-[🧾 View Workplace Etiquette Notes](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%93%8D%20Workplace%20Etiquette.png)
+[🧾 View Workplace Etiquette Notes](https://github.com/wil-it2025/cv-tutorial-LehlohnoloMotsoeneng/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview.mp4)
 
 **⭐ Reflection (STAR):**  
 - **S:** Studied professionalism and workplace behavior principles.  
