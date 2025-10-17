@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header Banner -->
 <p align="center">
-  <img src="https://github.com/LehlohnoloMotsoeneng/PRP370S-Work-Readiness-Portfolio/blob/main/banner_circuit_tech.gif" 
+  <img src="https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment/blob/main/banner_circuit_tech.gif" 
        alt="Lehlohonolo Motsoeneng - Software & IoT Developer Banner" 
        width="100%" />
 </p>
