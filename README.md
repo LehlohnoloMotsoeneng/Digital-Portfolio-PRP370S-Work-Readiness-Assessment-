@@ -90,7 +90,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 **📎 Evidence:**  
 - [🔗 LinkedIn Profile](https://www.linkedin.com/in/lehlohonolo-motsoeneng-09973a237)  
 - [🐙 GitHub Portfolio](https://github.com/LehlohnoloMotsoeneng)
-- [📝 View Mock Interview Exercise]()
+- [📝 View Mock Interview Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Professional%20Network.png)
 
 **⭐ Reflection (STAR):**  
 - **S:** Tasked with building a professional online brand.  
