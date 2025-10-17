@@ -5,7 +5,6 @@
        width="100%" />
 </p>
 
-
 <!-- 👋 Introduction -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078D7;">Lehlohonolo Motsoeneng</span></h1>
 
@@ -22,25 +21,69 @@
 
 ---
 
-<h2 align="center">🧾 Digital Work Readiness Portfolio (PRP370S)</h2>
-
-> *Faculty of Informatics and Design – Cape Peninsula University of Technology*  
-> *Subject Code:* **PRP370S** | *Lecturer:* **P. Inderlal** | *Period:* **October–November 2025**  
-
-This portfolio showcases my **Work Readiness Training** journey, featuring artifacts, evidence, and reflections (STAR Technique).  
-Each section demonstrates my **personal, professional, and technical growth** throughout the academic year.
-
----
-
 ## 🧠 Table of Contents
 
-🎯 [Business Communication](#-business-communication)  
+🎯 [Introduction](#-introduction)  
+💡 [About Me](#-about-me)  
+🛠 [Skills](#-skills)  
+🎓 [Academic Background](#-academic-background)  
+🚀 [Career Goals](#-career-goals)  
+💬 [Business Communication](#-business-communication)  
 🎤 [Interview Skills](#-interview-skills)  
 🧑‍🏫 [Mock Interview](#-mock-interview)  
 🌐 [Professional Networking](#-professional-networking)  
 🏢 [Workplace Etiquette](#-workplace-etiquette)  
 💼 [Technical Portfolio & Projects](#-technical-portfolio--projects)  
-🤝 [Let’s Collaborate](#-lets-collaborate)
+📂 [Supporting Documents](#-supporting-documents)  
+🪞 [Reflection](#-reflection)  
+🤝 [Let’s Collaborate](#-lets-collaborate)  
+🎯 [Conclusion](#-conclusion)
+
+---
+
+## 📝 Introduction
+
+Hello! I’m **Lehlohonolo Motsoeneng**, an aspiring **Software and IoT Developer** from Cape Town. This digital portfolio showcases my **technical projects, work readiness activities, and professional growth**, demonstrating my journey as an ICT student at CPUT.  
+
+---
+
+## 💡 About Me
+
+I am passionate about **automation, smart technology, and full-stack development**. I enjoy creating **innovative solutions** that combine hardware and software, from IoT systems to web applications. My goal is to continuously learn, improve my skills, and contribute to technology-driven solutions that make life easier.  
+
+---
+
+## 🛠 Skills
+
+I have hands-on experience with the following:
+
+- **Programming Languages:** Java, Python, C++, JavaScript  
+- **Frameworks & Libraries:** Spring Boot, React.js  
+- **Databases:** MySQL, Derby DB, JPA  
+- **IoT & Hardware:** Arduino, Raspberry Pi, Sensors  
+- **Tools & Platforms:** Git, GitHub, VSCode, IntelliJ IDEA, Figma  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,mysql,arduino,raspberrypi,git,github,vscode,intellij,figma&perline=7" />
+</p>
+
+---
+
+## 🎓 Academic Background
+
+**Cape Peninsula University of Technology (CPUT)**  
+- **Degree:** National Diploma in Information and Communication Technology  
+- **Specialization:** Application Development  
+- **Current Year:** 3rd Year  
+- **Key Focus Areas:** Software Development, IoT Systems, Database Management, Full-Stack Web Development  
+
+---
+
+## 🚀 Career Goals
+
+- **Short-Term:** Secure internships and freelance opportunities in software and IoT development.  
+- **Medium-Term:** Contribute to innovative projects that integrate smart technology and automation.  
+- **Long-Term:** Become a full-stack developer and IoT solution architect, building scalable systems that improve everyday life.  
 
 ---
 
@@ -73,8 +116,7 @@ Each section demonstrates my **personal, professional, and technical growth** th
 ## 🧑‍🏫 Mock Interview
 
 **📎 Evidence:**  
-[🎥 View Mock Interview Vidoe Presentation](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)
-
+[🎥 View Mock Interview Video Presentation](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)  
 [📝 View Mock Interview Exercise]()
 
 **⭐ Reflection (STAR):**  
@@ -89,8 +131,8 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 **📎 Evidence:**  
 - [🔗 LinkedIn Profile](https://www.linkedin.com/in/lehlohonolo-motsoeneng-09973a237)  
-- [🐙 GitHub Portfolio](https://github.com/LehlohnoloMotsoeneng)
-- [📝 View Mock Interview Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Professional%20Network.png)
+- [🐙 GitHub Portfolio](https://github.com/LehlohnoloMotsoeneng)  
+- [📝 View Networking Evidence](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Professional%20Network.png)
 
 **⭐ Reflection (STAR):**  
 - **S:** Tasked with building a professional online brand.  
@@ -131,11 +173,24 @@ Each section demonstrates my **personal, professional, and technical growth** th
 
 ---
 
-## 🧠 Technical Skills
+## 📂 Supporting Documents
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,mysql,arduino,raspberrypi,git,github,vscode,intellij,figma&perline=7" />
-</p>
+- **Work Readiness Evidence:** [Link to Evidence Folder](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/tree/main)  
+- **Technical Project Reports:** Included in each project repository (links above).  
+- **Certificates & Workshops:** Screenshots and PDFs uploaded in the Evidence folder.  
+
+---
+
+## 🪞 Reflection
+
+Over the course of the **PRP370S Work Readiness program**, I have:  
+
+- Strengthened **communication, presentation, and interview skills** through workshops and mock interviews.  
+- Built a professional **online presence** on LinkedIn and GitHub.  
+- Applied **technical skills** in real-world projects combining software development and IoT.  
+- Gained insights into **teamwork, accountability, and workplace etiquette**.  
+
+This journey has been instrumental in preparing me for professional opportunities and shaping my **career mindset**.  
 
 ---
 
@@ -150,6 +205,12 @@ Each section demonstrates my **personal, professional, and technical growth** th
 📧 [lamotsoeneng03@gmail.com](mailto:lamotsoeneng03@gmail.com)  
 🔗 [linkedin.com/in/lehlohonolo-motsoeneng-09973a237](https://www.linkedin.com/in/lehlohonolo-motsoeneng-09973a237)  
 🐙 [github.com/LehlohnoloMotsoeneng](https://github.com/LehlohnoloMotsoeneng)
+
+---
+
+## 🎯 Conclusion
+
+This portfolio represents my commitment to **continuous learning, technical excellence, and professional growth**. I am open to **internships, group projects, and freelance opportunities** where I can apply my skills, contribute to innovative solutions, and continue building my expertise.  
 
 ---
 
