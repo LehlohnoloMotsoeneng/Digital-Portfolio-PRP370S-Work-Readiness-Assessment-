@@ -156,7 +156,8 @@ I have hands-on experience with the following:
 
 ## 💼 Technical Portfolio & Projects
 
-![GitHub contributions](https://github.com/LehlohnoloMotsoeneng.png?tab=overview&from=2025-01-01&to=2025-12-31)
+<img src="https://github-readme-stats.vercel.app/api?username=LehlohnoloMotsoeneng&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&year=2025" />
+
 
 
 
