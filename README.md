@@ -116,7 +116,7 @@ I have hands-on experience with the following:
 
 **📎 Evidence:**  
 [🎥 View Mock Interview Video Presentation](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Lehlohonolo_Motsoeneng_Mock-Interview%20(1).mp4)  
-[📝 View Mock Interview Exercise]()
+[📝 View Mock Interview Exercise](https://github.com/LehlohnoloMotsoeneng/Digital-Portfolio-PRP370S-Work-Readiness-Assessment-/blob/main/Mock%20Interview%20Vidoe.png)
 
 **⭐ Reflection (STAR):**  
 - **S:** Conducted a mock interview simulation.  
